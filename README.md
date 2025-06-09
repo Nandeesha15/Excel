@@ -26,23 +26,4 @@ This repository contains answers and solutions to practical Excel questions aime
    - Using VLOOKUP and similar lookup functions
    - Creating and analyzing Pivot Tables for summarizing and exploring data
 
-## Getting Started
 
-You can open the Excel files in this repository using Microsoft Excel or any compatible spreadsheet software (such as Google Sheets or LibreOffice Calc).
-
-## Structure
-
-- Each file or folder corresponds to a specific practical question or topic.
-- Solutions are explained step-by-step wherever possible, with accompanying screenshots or annotated comments.
-
-## Contribution
-
-If you’d like to contribute more questions or improved solutions, feel free to submit a pull request!
-
-## License
-
-This repository is for educational purposes. You may use and share the materials freely, but please provide appropriate credit.
-
----
-
-**Author:** [Nandeesha15](https://github.com/Nandeesha15)
